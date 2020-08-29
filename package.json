@@ -1,11 +1,11 @@
 {
-  "name": "iex-cloud",
-  "version": "2.2.0",
-  "description": "IEX Cloud API TypeScript Client",
+  "name": "@chancey/iex-cloud",
+  "version": "2.2.3",
+  "description": "Chances IEX Cloud API TypeScript Client",
   "main": "build/main/index.js",
   "typings": "build/main/index.d.ts",
   "module": "build/module/index.js",
-  "repository": "https://github.com/zishe/iex-cloud",
+  "repository": "https://github.com/chancegraff/iex-cloud",
   "author": "Alexander Kireev",
   "license": "MIT",
   "keywords": [
